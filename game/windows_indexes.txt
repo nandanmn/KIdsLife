@@ -1,0 +1,89 @@
+list of all windows indexes
+
+1 - splash screen
+2 - login
+3 - main menu
+4 - change language
+5 - copyright
+6 - translators
+7 - manage users
+18 - select age
+25 - translators copyright
+26 - user score
+
+
+
+menus:
+8 - LANGUAGE SECTION
+  9 - word builders
+
+10 - MATH SECTION
+  11 - positive numbers
+    14 - positive numbers games
+  16 - addition games
+
+
+
+new menu:
+19 - main menu
+  math
+  20 - numbers
+  21 - patterns
+  22 - basic operations
+  23 - shapes
+  24 - time
+  -----------------
+  language
+  38 - discover letters
+  39 - word matchers
+  40 - word builders
+
+
+
+sub-games: (math)
+13 - numbers spelling
+15 - shopping list
+17 - find missing number
+27 - learn numbers with flashcards
+28 - number spelling
+29 - find solution - addition
+30 - find solution - subtraction
+31 - image patterns
+32 - learn shapes with flashcards
+33 - shape matcher
+34 - shape maker
+35 - how clock works
+36 - learn to set the clock
+37 - time matching
+
+
+
+sub-games: (language)
+41 - ___ alphabet   your alphabet
+42 - trace letters and numbers
+word builders:
+  12 - animals
+  43 - people
+  44 - jobs
+  45 - body
+  46 - clothes and accessories
+  47 - sports
+  48 - actions
+  49 - nature
+  50 - fruits and vegetables
+  51 - food
+  52 - transport
+  53 - constructions
+word matchers:
+  54 - animals
+  55 - people
+  56 - jobs
+  57 - body
+  58 - clothes and accessories
+  59 - sports
+  60 - actions
+  61 - nature
+  62 - fruits and vegetables
+  63 - food
+  64 - transport
+  65 - constructions
